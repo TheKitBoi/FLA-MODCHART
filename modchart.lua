@@ -1,3 +1,4 @@
+--Made with BBPANZU'S FLA/SWF Modchart
 local curFrame = 0
 local canUpdate = false
 function onSongStart()
