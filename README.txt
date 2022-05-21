@@ -1,4 +1,5 @@
-HOW TO USE THIS (I made the FLA Clean and Polished cus bbpanzu didnt. may extend how long it takes when i feel like it) (the modchart only works with Psych Engine)
+HOW TO USE THIS (I made the FLA Clean and Polished cus bbpanzu didnt. may extend how long it takes when i feel like it)
+(the modchart only works with Psych Engine)
 1. You must have Adobe Animate 2022 idk about the other versions tho
 2. Open up the FLA
 3. What text shows on screen is the instructions
